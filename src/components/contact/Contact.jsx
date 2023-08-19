@@ -24,7 +24,7 @@ const Contact = () => {
           </article>
           <article className="contact__option">
             <BsTelephonePlus className='contact__option-icon'/>
-            <h4>Whatsapp</h4>
+            <h4>Telephone:</h4>
             <h5>+976 8063-8868</h5>
           </article>
         </div>
